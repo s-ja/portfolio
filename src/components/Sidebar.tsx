@@ -14,7 +14,7 @@ export default function Sidebar() {
   return (
     <aside className="w-64 border-r border-gray-200 dark:border-gray-800 h-screen sticky top-0 p-6">
       <div className="h-full flex flex-col">
-        <h1 className="text-xl font-bold mb-8">홍길동</h1>
+        <h1 className="text-xl font-bold mb-8">안승지</h1>
 
         <nav className="flex-1">
           <ul className="space-y-2">
