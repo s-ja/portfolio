@@ -5,8 +5,8 @@ import type { Metadata } from "next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "포트폴리오",
-  description: "웹 프론트엔드 개발자 포트폴리오",
+  title: "포트폴리오, 안승지",
+  description: "웹 프론트엔드 개발자 안승지 포트폴리오",
 };
 
 export default function RootLayout({

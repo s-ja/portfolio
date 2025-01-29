@@ -12,7 +12,7 @@ export default function Sidebar() {
   };
 
   return (
-    <aside className="w-64 border-r border-gray-200 dark:border-gray-800 h-screen sticky top-0 p-6 bg-white dark:bg-gray-900">
+    <aside className="w-64 border-r border-gray-200 dark:border-gray-800 h-screen sticky top-0 p-6">
       <div className="h-full flex flex-col">
         <h1 className="text-xl font-bold mb-8">홍길동</h1>
 

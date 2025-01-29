@@ -4,7 +4,7 @@ import Projects from "./Projects";
 
 export default function MainContent() {
   return (
-    <main className="flex-1 p-8 max-w-[210mm]">
+    <main className="flex-1 p-8 max-w-[210mm] flex flex-col gap-32">
       <section
         id="home"
         className="min-h-screen flex items-center justify-center flex-col"
