@@ -11,7 +11,7 @@ export default function MainContent() {
       >
         <h1 className="text-6xl font-bold mb-4">안녕하세요</h1>
         <p className="text-xl text-gray-600 dark:text-gray-400">
-          웹 프론트엔드 개발자 홍길동입니다
+          프론트엔드 개발자 안승지 입니다.
         </p>
       </section>
 
